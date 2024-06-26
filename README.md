@@ -1,11 +1,4 @@
-x## Hi there 👋
-
-
-![image](https://github.com/danielesantiago/TemplatePED/assets/64613885/cc24a702-46b8-4263-a764-8c65c56f02ac)
-
-
-## 📌 Visão Geral
-Hello, nice to meet you!
+## Hello, nice to meet you! 👋
 
 I am Brazilian residing in Barcelona, graduated in Marketing & Advertisement and with a Master's Degree in Big Data & Analytics at EAE Business School. Currently a Business Intelligence Trainee at Neuroeletrics, a high-tech company that provides cutting-edge technologies for neuroscience. In my 3+ years of experience working with data, I've had the opportunity to coordinate and work on projects for relevant clients of the Brazilian market, such as Tramontina, JBS, Vigor, Ultragaz, and Pepsico. In my role as a Business Intelligence Coordinator, I had the opportunity to lead and guide members of the BI team, organizing their roles and tasks while providing direction in conducting analyses. 
 
