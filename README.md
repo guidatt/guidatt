@@ -10,9 +10,13 @@ Im Guilherme, a Brazilian residing in Barcelona, graduated in Marketing & Advert
 
 ## 📊 💡 About me
 🖥️ Interested in seeing more of my work? Check out my portfolio here.
+
 🌱 I'm continuously learning and growing my skills. Having already covered advanced topics in statistics, I'm now diving deeper into machine learning.
+
 👩‍🏫 I'm a Data Science mentor for interview preparations in data roles. You can learn more about it here.
+
 🔍 Explore my data science projects on GitHub.
+
 ⚡ Fun fact: I'm a big coffee lover! It's my go-to drink to power through coding sessions.
 
 ## 🚧 Próximos Passos
