@@ -9,14 +9,7 @@
 
 ## 🖥 Tech Skills
 
-- #### Advanced:
-   Python and data analysis libraries (Pandas, Matplotlib, Plotly, Numpy), SQL, Excel, Google Sheets, Power BI, Tableau, Looker Studio, Youtube Studio, Analytical Skills, Communication, Problem Solving, Business Analysis.
-
-- #### Intermediate:
-   Google Analytics, Facebook Business, Statistics, Alteryx.
-
-- #### Basic:
-   Databricks.
+- I have **advanced proficiency** in Python and its data analysis libraries (Pandas, Matplotlib, Plotly, Numpy), as well as in SQL, Excel, Google Sheets, Power BI, Tableau, and Looker Studio. My skill set includes analytical abilities, effective communication, problem-solving, and business analysis. I have **intermediate experience** with Google Analytics, Facebook Business, Statistics, and Alteryx, along with a **foundational understanding** of Databricks.
 
 ## 💼 Interested in seeing more of my work?
 
